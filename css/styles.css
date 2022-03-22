@@ -1,0 +1,41 @@
+.title{
+    margin-top: 5%;
+    text-align: center;
+    font-family: system-ui,'lucida grande',tahoma,verdana,arial,sans-serif, 'Segoe UI Emoji', 'NotoColorEmoji', 'Segoe UI Symbol', 'EmojiSymbols', Symbola, 'Android Emoji','AndroidEmoji', 'Arial Unicode MS','Zapf Dingbats', 'Apple Color Emoji';
+}
+.emoticons{
+    margin-top: 10%;
+}
+#youareanidiot{
+    position: absolute;
+    width: 100%;
+    padding: 3%;
+    height: 100%;
+    left: -2%;
+    top: 0%;
+}
+.smiles{
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+.smilesorizo{
+    position: absolute;
+    transform: rotate(90deg);
+}
+h99{
+    white-space: nowrap;
+    border-radius: 15px 0 0 0;
+    resize: none;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px 0;
+    line-height: 1;
+    font-size: 50px !important;
+    overflow: hidden;
+    text-shadow: none;
+    font-family: system-ui,'lucida grande',tahoma,verdana,arial,sans-serif, 'Segoe UI Emoji', 'NotoColorEmoji', 'Segoe UI Symbol', 'EmojiSymbols', Symbola, 'Android Emoji','AndroidEmoji', 'Arial Unicode MS','Zapf Dingbats', 'Apple Color Emoji';
+    font-size: 22px;
+    text-decoration: none;
+}
